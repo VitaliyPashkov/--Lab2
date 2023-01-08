@@ -1,0 +1,6 @@
+name nameeee
+club clubee
+Sectors count: 5
+Capacity 2000
+Attendance 473
+fill(%) 23.65

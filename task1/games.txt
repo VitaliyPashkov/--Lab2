@@ -1,0 +1,21 @@
+name stadion3
+club club3
+Sectors count: 5
+Capacity 3500
+Attendance 2427
+fill(%) 69.3429
+
+name Stadion2
+club Club2
+Sectors count: 6
+Capacity 5000
+Attendance 1992
+fill(%) 39.84
+
+name Stadion1
+club Club1
+Sectors count: 5
+Capacity 4000
+Attendance 1520
+fill(%) 38
+

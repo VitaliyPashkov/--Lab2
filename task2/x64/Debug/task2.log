@@ -1,0 +1,8 @@
+﻿  task2.cpp
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(56,30): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(56,25): warning C4244: инициализация: преобразование "double" в "const long", возможна потеря данных
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(58,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(60,13): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(62,52): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\vital\source\repos\Lab2\task2\task2.cpp(62,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  task2.vcxproj -> C:\Users\vital\source\repos\Lab2\x64\Debug\task2.exe
